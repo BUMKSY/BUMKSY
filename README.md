@@ -1,4 +1,4 @@
-div> <img alt="toon" src ="https://github.com/BUMKSY/BUMKSY/blob/main/toon.jpg"> </div>
+<div> <img alt="toon" src ="https://github.com/BUMKSY/BUMKSY/blob/main/toon.jpg"> </div>
 
 <h1 align="center">HELLO <img src="https://github.com/BUMKSY/BUMKSY/blob/main/shake.gif" height="55px" width="55px">, I'm PARK</h1>
 
